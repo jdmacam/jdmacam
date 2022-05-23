@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently teaching myself about **Rust and Flutter**
 
-- Portfolio: [https://joemacam.com](https://joemacam.com)
+- 💻 Portfolio: [https://joemacam.com](https://joemacam.com)
 
 - 📫 How to reach me: **jdmacam@gmail.com**
 
