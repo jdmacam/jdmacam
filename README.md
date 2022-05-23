@@ -7,7 +7,7 @@
 
 - Portfolio: [https://joemacam.com](https://joemacam.com)
 
-- 📫 How to reach me **jdmacam@gmail.com**
+- 📫 How to reach me: **jdmacam@gmail.com**
 
 - 📄 Current Resume: [https://joemacam.com/resume.pdf](https://joemacam.com/resume.pdf)
 
