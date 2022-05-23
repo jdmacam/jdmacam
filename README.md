@@ -3,7 +3,7 @@
 
 - 👔 I’m currently working at **PNNL as a Research Associate**
 
-- 🌱 I’m currently learning **Rust and Flutter**
+- 🌱 I’m currently teaching myself about **Rust and Flutter**
 
 - Portfolio: [https://joemacam.com](https://joemacam.com)
 
