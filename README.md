@@ -1,7 +1,7 @@
 <h1 align="center">Hello! My name is Joe Macam</h1>
 <h3 align="center">Software developer and gorilla enjoyer 🦍</h3>
 
-- 👔 I’m currently working at **PNNL as a Research Associate**
+- 👔 I’m currently working at **PNNL as a Software Engineer**
 
 - 🌱 I’m currently teaching myself about **Rust and Flutter**
 
