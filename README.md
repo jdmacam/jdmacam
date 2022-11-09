@@ -1,15 +1,13 @@
 <h1 align="center">Hello! My name is Joe Macam</h1>
 <h3 align="center">Software developer and gorilla enjoyer 🦍</h3>
 
-- 👔 I’m currently working at **PNNL as a Software Engineer**
-
-- 🌱 I’m currently teaching myself about **Rust and Flutter**
+- 👔 I’m currently working at **LLNL as a Software Developer**
 
 - 💻 Portfolio: [https://joemacam.com](https://joemacam.com)
 
 - 📫 How to reach me: **jdmacam@gmail.com**
 
-- 📄 Current Resume: [https://joemacam.com/resume.pdf](https://joemacam.com/resume.pdf)
+- 📄 Most recent Resume: [https://joemacam.com/resume.pdf](https://joemacam.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
