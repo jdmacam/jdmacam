@@ -42,4 +42,3 @@
 
 <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdmacam&show_icons=true&locale=en" alt="jdmacam" /></p>
