@@ -16,7 +16,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jdmacam/)
 [![Portfolio Badge](http://img.shields.io/badge/portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joemacam.com)
-[![Instagram Badge](http://img.shields.io/badge/instagram-critical?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daijoebu.cpp/)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
